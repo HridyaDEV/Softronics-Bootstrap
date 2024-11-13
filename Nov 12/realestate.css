@@ -1,0 +1,26 @@
+.background{
+    height: 500px;
+    background-image: url("real.jpg");
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+   
+ 
+    
+}
+.box-black{
+    width: 450px;
+    height: 250px;
+    top: 100px;
+    
+}
+.box-blue{
+    height: 200px;
+    text-align: center;
+}
+.features{
+   
+    text-align: center;
+}
