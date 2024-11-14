@@ -1,0 +1,26 @@
+.nav-bar{
+    height: 70px;
+}
+.background{
+    height: 400px;
+    background-image: url("pexels-ameer-mohamed-424973045-23234989.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
+.about{
+    height: 300px;
+}
+.about img{
+    width: 200px;
+    height: 200px;
+}
+.below{
+    background-image: url("hillstation.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+}
