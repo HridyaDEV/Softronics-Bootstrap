@@ -1,0 +1,54 @@
+
+.red-back{
+    height: 300px;
+}
+
+
+.image img{
+    width: 200px;
+    height: 300px;
+}
+.item{
+    width: 270px;
+    height: 250px;
+}
+.icon{
+    width: 40px;               
+  height: 40px;
+ 
+}
+.image-back{
+    background-image: url("get\ ready.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+    text-align: center;
+    
+}
+
+.about{
+    height: 200px;
+    text-align: center;
+}
+.text-back{
+    height: 150px;
+    width: 700px;
+    text-align: center;
+}
+.qoute{
+    width: 50px;
+    height: 50px;
+    
+    
+}
+.person img{
+    width: 80px;
+    height: 80px;
+    
+}
+
+.suit-images img{
+    width: 200px;
+    height: 150px;
+}
